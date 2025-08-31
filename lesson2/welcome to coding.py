@@ -1,0 +1,5 @@
+print("welcome to the world of coding")
+print('hello python \n')
+print(1234567890)
+print("welcome to",end="*")
+print("hello player number",10000000000000000000000000000000000000000000)
