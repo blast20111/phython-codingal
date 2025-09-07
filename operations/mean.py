@@ -1,0 +1,8 @@
+tree1=12345678910
+tree2=2468101214161820
+tree3=36912151821242730
+tree4=481216202428323640
+tree5=5101520253035404550
+sum=tree1+tree2+tree3+tree4+tree5
+average=sum/5
+print("the average is",average)
